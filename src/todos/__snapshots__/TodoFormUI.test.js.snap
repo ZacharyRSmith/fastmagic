@@ -1,0 +1,33 @@
+exports[`test renders without crashing 1`] = `
+<form
+  onSubmit={[Function]}>
+  <RequiredTextFormGroup
+    field={
+      Object {
+        "helpMessage": "Please provide todo\'s text",
+        "label": "Text",
+        "name": "text",
+      }
+    }
+    handleChange={[Function]} />
+  <RequiredTextFormGroup
+    field={
+      Object {
+        "helpMessage": "Please provide name of todo\'s owner",
+        "label": "Owner",
+        "name": "owner",
+      }
+    }
+    handleChange={[Function]} />
+  <Button
+    active={false}
+    block={false}
+    bsClass="btn"
+    bsStyle="default"
+    className="submit"
+    disabled={false}
+    type="submit">
+    Create
+  </Button>
+</form>
+`;

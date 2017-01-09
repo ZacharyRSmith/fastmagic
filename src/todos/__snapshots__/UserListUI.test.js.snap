@@ -1,0 +1,7 @@
+exports[`test renders without crashing 1`] = `
+<ul>
+  <li>
+    Spot
+  </li>
+</ul>
+`;

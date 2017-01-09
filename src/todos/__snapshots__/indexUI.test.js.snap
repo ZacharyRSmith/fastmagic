@@ -1,0 +1,15 @@
+exports[`test renders without crashing 1`] = `
+<BrowserRouter>
+  <div>
+    <h1>
+      Todo App
+    </h1>
+    <TodoListUI
+      fetchTodos={[Function]} />
+    <Connect(TodoFormContainer)>
+      <TodoFormUI />
+    </Connect(TodoFormContainer)>
+    <Connect(UserListUI) />
+  </div>
+</BrowserRouter>
+`;

@@ -1,0 +1,52 @@
+exports[`test renders without crashing 1`] = `
+<ul>
+  <li>
+    <Checkbox
+      bsClass="checkbox"
+      checked={false}
+      disabled={false}
+      inline={true}
+      onChange={[Function]} />
+     
+    do something
+     
+    <small>
+      (
+      spot
+      )
+    </small>
+  </li>
+  <li>
+    <Checkbox
+      bsClass="checkbox"
+      checked={true}
+      disabled={false}
+      inline={true}
+      onChange={[Function]} />
+     
+    do something 2
+     
+    <small>
+      (
+      spot
+      )
+    </small>
+  </li>
+  <li>
+    <Checkbox
+      bsClass="checkbox"
+      checked={false}
+      disabled={false}
+      inline={true}
+      onChange={[Function]} />
+     
+    do something 3
+     
+    <small>
+      (
+      spot
+      )
+    </small>
+  </li>
+</ul>
+`;
