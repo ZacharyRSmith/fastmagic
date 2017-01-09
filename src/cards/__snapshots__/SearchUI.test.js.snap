@@ -1,0 +1,17 @@
+exports[`test renders without crashing 1`] = `
+<div>
+  <FormControl
+    bsClass="form-control"
+    componentClass="input"
+    onChange={[Function]} />
+  <CardListUI
+    cards={
+      Array [
+        Object {
+          "id": "cardid1",
+          "name": "Card Name 1",
+        },
+      ]
+    } />
+</div>
+`;

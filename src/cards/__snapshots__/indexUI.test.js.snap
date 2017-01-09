@@ -1,0 +1,8 @@
+exports[`test renders without crashing 1`] = `
+<div>
+  <h1>
+    MTG Cards
+  </h1>
+  <Search />
+</div>
+`;
