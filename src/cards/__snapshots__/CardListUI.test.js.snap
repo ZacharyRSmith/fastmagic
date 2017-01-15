@@ -1,7 +1,12 @@
 exports[`test renders without crashing 1`] = `
-<ul>
-  <li>
-    Card Name 1
-  </li>
-</ul>
+<div
+  id="cards">
+  <div
+    className="card">
+    <h3>
+      Card Name 1
+    </h3>
+    <p />
+  </div>
+</div>
 `;
